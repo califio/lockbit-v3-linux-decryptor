@@ -1,7 +1,7 @@
 
 # LOCKIT V3 LINUX DECRYPTOR
 
-This tool decrypts LOCKBIT v3 encrypted files with provided RSA key. For the details on how LOCKBIT V3 works, we have also published an article about it [here](TODO).
+This tool decrypts LOCKBIT v3 encrypted files with provided RSA key. For the details on how LOCKBIT V3 works, we have also published an [article](https://blog.calif.io/p/dissecting-lockbit-v3-ransomware) about it.
   
 ## BUILD
 
