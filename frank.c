@@ -453,7 +453,7 @@ int main(int argc, char *argv[]) {
     checksum_only = 0;
     verbose = 0;
 
-    prog_name = malloc((strlen(argv[0])));
+    prog_name = malloc(strlen(argv[0]) + 1);
     strcpy(prog_name, argv[0]);
     if (3 > argc) {
         help();
